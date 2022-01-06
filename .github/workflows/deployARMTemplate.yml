@@ -5,7 +5,7 @@ on:
     branches:
       - master
 env:
-  AZURE_SUBSCRIPTION_ID: << Subscription Id >>   # set this to your Azure Subscription Id
+  AZURE_SUBSCRIPTION_ID: a37cd0e7-8917-4eb5-934c-6138c96edaff   # set this to your Azure Subscription Id
   AZURE_RESOURCE_GROUP: VincARMtemplateDev   # set this to your target resource group
 
 jobs:
